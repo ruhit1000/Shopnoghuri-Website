@@ -1,72 +1,51 @@
 [
     {
         "id": 1,
-        "imageURL": "https://images.unsplash.com/photo-1585208798174-6cedd86e019a?q=50&w=2073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "destination_name": "Lisbon, Portugal",
-        "details": "5 nights and 4 days in a 5-star hotel, breakfast and lunch included. Very popular during the Renaissance. Explore the sites of the world in classical literature.",
-        "price": "$850"
+        "imageURL": "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/624486293_1432139235367938_4938977332163224898_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeHmga5ORjpCAuKFgLtE_bJZRbDX7Fu5X2tFsNfsW7lfa1UoJdGZCAIUSI1BAOHedpt5SEoEp1lygzl1RA1BO5MP&_nc_ohc=LZHITxEn4wIQ7kNvwGyxTxT&_nc_oc=AdoBVYRZTObLaZyYUZct0qF7OWZQD7R1AWt93HXln8OVpvW7JpOrAf_gtXpPdCKRxmE&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=KRtZYFf9QPsR7uIgKfa6CQ&_nc_ss=7a3a8&oh=00_Af1baLY7rSM3kb0cmum7cTYOMJ9DqH8SUksyxyxzjBmUog&oe=69D2C1C9",
+        "destination_name": "Sajek Valley",
+        "details": "1 night and 2 days in a premium eco-resort. Breakfast and dinner included. Experience the magic of walking among the clouds.",
+        "price": "৳ 4,500"
     },
     {
         "id": 2,
-        "imageURL": "https://images.unsplash.com/photo-1560969184-10fe8719e047?auto=format&fit=crop&w=800&q=50",
-        "destination_name": "Berlin, Germany",
-        "details": "4 nights and 3 days. Includes a historical walking tour, luxury suite, and full board. Discover the deep history and modern culture of the German capital.",
-        "price": "$720"
+        "imageURL": "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/607126995_1407750891140106_7466754591520988461_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=105&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeHXR1UStFXhQHNB_NIxOE08OuL5VU4_yA864vlVTj_ID02eOrV25QpYn-ZwVK5t9gugeEAwyP-WSFiJJIPSD6zG&_nc_ohc=gCUZ4e_MBdcQ7kNvwEa1Ap-&_nc_oc=AdpHLMFpPGLo9E2j4jNbNXlYXFWP8fen7waelYJqc-tOfKtfQoe3J3Rcfp2MywrX81o&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=tyckNCGzm3iQtxbohEfNeA&_nc_ss=7a3a8&oh=00_Af1CJqWmezrbAc7pS7xjw_uRpy8EGp-Hn8KVVJOnvpRRmg&oe=69D2D499",
+        "destination_name": "Sajek Valley",
+        "details": "2 nights and 3 days getaway. Includes all meals and transport from Khagrachari. Relax in the serene hills of Rangamati.",
+        "price": "৳ 6,500"
     },
     {
         "id": 3,
-        "imageURL": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=800&q=50",
-        "destination_name": "London, United Kingdom",
-        "details": "6 nights and 5 days. Thames river cruise and afternoon tea included. Stay in the heart of the city with easy access to classical landmarks.",
-        "price": "$1,100"
+        "imageURL": "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/590228154_1380710163844179_2572615953988417511_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeETHb4YWRXKNMjJDRTmh8aFPBQpIn0pUB08FCkifSlQHSin6xgRi2bRp-LNMOINLG8X0r39P5Uo4xqcD85pJL0N&_nc_ohc=FgCVYt8zu28Q7kNvwFqnhjy&_nc_oc=AdpSzIlxD66ybD29ycMxBCeuNtcbLxyi7y78Bw2er6rE-gh55xD1YfXV_t6NbAxLWgA&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=x70RPdMhfpPXLpGT3UQOHg&_nc_ss=7a3a8&oh=00_Af3kd4UomdAQdU5h5GrJpj86zj6J91UQFBYq3t5VA2uiGg&oe=69D2E596",
+        "destination_name": "Tanguar Haor",
+        "details": "1 night and 2 days on a luxury houseboat. All meals included. Explore the crystal clear waters and watch migratory birds.",
+        "price": "৳ 5,500"
     },
     {
         "id": 4,
-        "imageURL": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?auto=format&fit=crop&w=800&q=50",
-        "destination_name": "Venice, Italy",
-        "details": "3 nights and 2 days. Private gondola ride and luxury canal-side accommodation. Experience the romantic waterways and Renaissance architecture.",
-        "price": "$950"
+        "imageURL": "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/486148632_9480543405359907_2695090936979496175_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=dd6889&_nc_eui2=AeEm6TQCirB1YS42R4XzESdjex2vDq_W5Kl7Ha8Or9bkqaxsmi89u8Yms__tfJ-1RdrZpdHTu247MEPa5Iy2FMTT&_nc_ohc=2U_CgqpUVe4Q7kNvwG-IrDK&_nc_oc=Adqv8JNtFKNMWCnYs7_QGSF4z3JVT1p12_jELOi7VY--QExzXTTSsSoueIPjxyAFvek&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=mGerbNPhbHZ_eNV1Gz8pQQ&_nc_ss=7a3a8&oh=00_Af0VF1RyZA-sO2Wq3nWkMYmvRqMOrSqLPsZqHRgfbD3ZaA&oe=69D2D8AB",
+        "destination_name": "Annapurna Base Camp",
+        "details": "8 nights and 9 days trekking adventure. Guide, permits, and teahouse accommodations included. Witness the majestic Himalayas.",
+        "price": "৳ 45,000"
     },
     {
         "id": 5,
-        "imageURL": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?auto=format&fit=crop&w=800&q=50",
-        "destination_name": "Paris, France",
-        "details": "5 nights and 4 days. Museum pass and gourmet dinner at the Eiffel Tower included. A journey through the world of art, fashion, and history.",
-        "price": "$1,250"
+        "imageURL": "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/558454766_1341119777803218_4636167780944812934_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeFAjLb_F21tWbz0Z62G4ZRI7FebkLle7oHsV5uQuV7ugUKsy_2pmPAVF0N7-GaiVIJyXu1Bcm5rlYso_tKl6AWr&_nc_ohc=uL8E1Qi3bCAQ7kNvwEnftjg&_nc_oc=AdrfMk2kW-2XMDDg4NjO-5oKZ8DJyg0PDWWwFxzN0nnA61sOk0slJNOBzo6iPgujIIQ&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=EKcPWsXBHJW4lAlzNeXu8A&_nc_ss=7a3a8&oh=00_Af0HCtc-wNxjoEUQBrYoWhCN6Gi0qBSWcShVdDjEciPEMA&oe=69D2ED89",
+        "destination_name": "Amiakhum & Nafakhum",
+        "details": "4 nights and 3 days of deep jungle trekking in Bandarban. Includes guide, local food, and tribal cottage stay. Discover hidden waterfalls.",
+        "price": "৳ 7,000"
     },
     {
         "id": 6,
-        "imageURL": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?auto=format&fit=crop&w=800&q=50",
-        "destination_name": "Tokyo, Japan",
-        "details": "7 nights and 6 days. Sushi making class and bullet train pass included. A perfect blend of neon-lit futurism and ancient Shinto traditions.",
-        "price": "$1,400"
+        "imageURL": "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/515336155_24016646114656395_7425780038624502487_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=dd6889&_nc_eui2=AeFk-kV2aHNqxScJevtDO2LLu_6qIDAyMFi7_qogMDIwWDAQ-pEojtbiQZ24fd5AgGZX5gu_DpkNp4cT3kbRXe78&_nc_ohc=yXJxm25ad84Q7kNvwH1VWmm&_nc_oc=AdpboycOcQdF3kxOloOrx8xk0p8LQEP8rFEEmDB0gO8Ia3Z4omHQ28UADVNt8vxBXI0&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=bBfdPpnYtWWnvKOvH90wpQ&_nc_ss=7a3a8&oh=00_Af2hMsHjv1QY0wcZFmdiBfzkmAXfFWkEcqOxb4jU_-71DA&oe=69D2DD52",
+        "destination_name": "Cox's Bazar",
+        "details": "2 nights and 3 days in a beachfront hotel. Breakfast included. Relax on the world's longest natural sandy beach.",
+        "price": "৳ 8,000"
     },
     {
         "id": 7,
-        "imageURL": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=800&q=50",
-        "destination_name": "Rome, Italy",
-        "details": "4 nights and 3 days. Colosseum priority access and authentic pasta workshop included. Walk through the living museum of the Roman Empire.",
-        "price": "$890"
-    },
-    {
-        "id": 8,
-        "imageURL": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?auto=format&fit=crop&w=800&q=50",
-        "destination_name": "Santorini, Greece",
-        "details": "5 nights and 4 days. Sunset yacht tour and cliffside villa with a private pool. Famous for blue domes and breathtaking Mediterranean views.",
-        "price": "$1,600"
-    },
-    {
-        "id": 9,
-        "imageURL": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?auto=format&fit=crop&w=800&q=50",
-        "destination_name": "New York, USA",
-        "details": "4 nights and 3 days. Broadway show tickets and Times Square hotel stay. Experience the energy of the city that never sleeps.",
-        "price": "$1,050"
-    },
-    {
-        "id": 10,
-        "imageURL": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=50",
-        "destination_name": "Kyoto, Japan",
-        "details": "6 nights and 5 days. Traditional tea ceremony and Zen garden tour. Stay in a classic Ryokan for an authentic cultural immersion.",
-        "price": "$1,200"
+        "imageURL": "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/536277655_24441350432185959_2549903020140466320_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=dd6889&_nc_eui2=AeHmq4KDmrMqeKWZGeaswA781LWCuXs1UIjUtYK5ezVQiHV34GA_I2UYcLjgKWrQy4e64m7sLe75FCG7Ac5Bu5kk&_nc_ohc=_gHdpYB5YkwQ7kNvwHZm9KV&_nc_oc=Ado2CykvIWc732rBm-KfQXuTDNTbdiZ9HRvL1-ncja9AD4EEnjAvCpujAztMuCNJJ1U&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=GI6acqCB32K3W3eHDazd4w&_nc_ss=7a3a8&oh=00_Af1oEpV81W_r-nB6sC7BIlj-je9svK8eHHUZZb0ILXRfvQ&oe=69D2CD45",
+        "destination_name": "Everest Base Camp",
+        "details": "14 days epic trekking expedition. Includes flights from Kathmandu, teahouse stays, and expert guides. Stand at the foot of the world's highest peak.",
+        "price": "৳ 95,000"
     }
 ]

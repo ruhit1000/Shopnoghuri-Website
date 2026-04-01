@@ -22,7 +22,7 @@ const GuidedTourCard = ({ tour }) => {
 
             <div className='p-4 lg:absolute lg:bottom-0 lg:left-0 w-full lg:h-40 lg:z-0 flex flex-col justify-center'>
                 <div className='flex justify-between mt-0 font-rubik text-lg'>
-                    <p className='text-sm font-bold opacity-80 mt-1'>GUIDED TOUR</p>
+                    <p className='text-sm font-bold opacity-80 mt-1'>DAY TOUR</p>
                     <p className='font-bold text-[#FF7757]'>{tour.price}</p>
                 </div>
 

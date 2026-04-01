@@ -21,10 +21,10 @@ const Blog = ({ blogPostsPromise }) => {
     return (
         <div className='py-20 px-4'>
             <div>
-                <h2 className='font-playfair-display text-4xl pb-3 mr-10'>Our Blog</h2>
+                <h2 className='font-playfair-display text-4xl pb-3 mr-10'>Shopnoghuri Stories</h2>
                 <hr className='border-b-2 border-[#FF7757] max-w-62.5' />
                 <div className='flex justify-between'>
-                    <p className='font-rubik text-lg text-[#767E86] mt-8 mb-15'>An insight the incredible experience in the world</p>
+                    <p className='font-rubik text-lg text-[#767E86] mt-8 mb-15'>Insights into the incredible travel experiences across Bangladesh.</p>
                     <div className='hidden lg:flex items-end justify-end py-10'>
                         <ChangeButtons onLeft={handlePrev} onRight={handleNext} />
                     </div>

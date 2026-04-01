@@ -27,9 +27,9 @@ const GuidedTours = ({ guidedToursPromise }) => {
     return (
         <div ref={scrollRef} className='py-20 px-4 flex flex-col gap-10 lg:flex-row overflow-x-auto'>
             <div className='mb-20 lg:min-w-100'>
-                <h2 className='font-playfair-display text-4xl pb-3 mr-10'>Trip Planners</h2>
+                <h2 className='font-playfair-display text-4xl pb-3 mr-10'>Day Trips</h2>
                 <hr className='border-b-2 border-[#FF7757] max-w-62.5' />
-                <p className='font-rubik text-lg text-[#767E86] mt-8 mb-15'>20 years from now you will be more disappointed by the things that you didn’t do. Stop regretting and start travelling, start throwing off the bowlines.</p>
+                <p className='font-rubik text-lg text-[#767E86] mt-8 mb-15'>Explore the beauty of Bangladesh with our curated day trips. Perfect for a quick escape from the hustle and bustle of city life.</p>
                 <div className='flex max-w-54.5 relative'>
                     <div className='w-11 h-11 bg-[#172432] absolute -top-3'></div>
                     <button className='bg-[#FF7757] text-white font-rubik py-3 px-6 rounded-md hover:bg-[#e0634d] transition-colors duration-300 z-1 absolute left-3'>

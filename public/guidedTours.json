@@ -1,34 +1,34 @@
 [
     {
         "id": 1,
-        "imageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=800&q=50",
-        "price": "$120/Day",
-        "name": "Rome City Tour",
-        "duration": "4-5 days",
+        "imageUrl": "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/493960370_9733881326692779_3648701932526679930_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=e06c5d&_nc_eui2=AeGPqpFhm3bDioUKGPiCSqpeIbauBgwPtrkhtq4GDA-2uZf4blEd078Kjm1SGyTbEBrP8v64eYoGrtaXNRAXPf1P&_nc_ohc=mcEh_gYPG44Q7kNvwEjM5PB&_nc_oc=AdomCmHFPCMSTesaNXHj7XlgE32NRVRBJiLrD8WWK9qcJL2IFB6VG7utQzxavht9MAc&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=OB4wy6EjTyVQyliyfnYs5A&_nc_ss=7a3a8&oh=00_Af3qZwkI0IDjTxYE-2lHKNYccTfOuJeAwZWjq_n1MO0UCw&oe=69D2C393",
+        "price": "৳ 1800",
+        "name": "Shitakundu Day Tour",
+        "duration": "1 day",
         "highlight": true
     },
     {
         "id": 2,
-        "imageUrl": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=50",
-        "price": "$150/Day",
-        "name": "Paris Highlights Tour",
-        "duration": "3-5 days",
+        "imageUrl": "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/485029503_1177393287509202_4272667765872992875_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e06c5d&_nc_eui2=AeFNgPpjMv633iEAOS3Y7urLEVm_dMX82tIRWb90xfza0rz34yY6Q9vMHZaNskW2CkurQ-WsgJ9F4B8TlG9ZeqQe&_nc_ohc=KMUCT7AvFYEQ7kNvwGGjlbi&_nc_oc=AdpbfMKSGlqltk4w5678PRbblQphetg0cKqV8gfyuQXV3H8bQmEKbSr-rkvnBfq7bjY&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=yRHkk3LwVsVTCOP4IPG1Og&_nc_ss=7a3a8&oh=00_Af1FJlFuneEw8LrrwbFPNqhjcbJxFvQs6wpmrxtB2QjDuw&oe=69D2E34D",
+        "price": "৳ 1500",
+        "name": "Komoldaho Tail Adventure",
+        "duration": "1 day",
         "highlight": true
     },
     {
         "id": 3,
-        "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=800&q=50",
-        "price": "$110/Day",
-        "name": "Tokyo Neon Nights",
-        "duration": "5-7 days",
+        "imageUrl": "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/497734401_2388811748168164_3405504265759962957_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=e06c5d&_nc_eui2=AeFTAzofwtncLMcAas1Mk8puYygOTF7m1xtjKA5MXubXG06pFCLytGjBQTtMnwk_t54VFCHeLtcafA7evW-3E1ym&_nc_ohc=IQshYmus2d4Q7kNvwGAxseK&_nc_oc=AdpiesB29gqaQzAjaV0smeH402c9fAsxJINJDCEFR5T0PYjAhipOBvtJOuVPymWgarY&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=Lu5UK_AQuQ5Guqr5SjVRbA&_nc_ss=7a3a8&oh=00_Af29Q2ZMkaa0lOdBUVZgu_3ZDj0LgeWi59VkH3jToARvtA&oe=69D2C8B2",
+        "price": "৳ 1800",
+        "name": "Mohamaya Lake Escape",
+        "duration": "1 day",
         "highlight": true
     },
     {
         "id": 4,
-        "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=800&q=50",
-        "price": "$140/Day",
-        "name": "London Heritage Walk",
-        "duration": "4-6 days",
+        "imageUrl": "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/596020465_122212260728343616_2541807836255588722_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeHBzCFko-IB4MJou7J8N06ZZ6lV5_0IOWZnqVXn_Qg5Zo4NJ4noRPCzd391WtpRWZJfNnVg-PS_QFhZ4wTF52-1&_nc_ohc=_gYb4Y0QGUoQ7kNvwFyyiaI&_nc_oc=AdrfFlSowxDwYcM2nCOe5qK-cQ-f6E-ChzzRvbsh5wUlIClW9MUKnRrKO1-1tW5er1k&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=Ht1IkXF6_SIEISPTFt-Gkw&_nc_ss=7a3a8&oh=00_Af3gVYe82j7jZVvtyTjLsGwIZAkB1shhUowDNvIW6C-E0A&oe=69D2D938",
+        "price": "৳ 1400",
+        "name": "Padma River Cruise",
+        "duration": "1 day",
         "highlight": true
     },
     {
