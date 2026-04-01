@@ -8,8 +8,8 @@ const HeroSection = () => {
 
     return (
         <div className='pt-20 md:pt-30 lg:pt-35.5 pb-25'>
-            <h1 className='font-playfair-display text-4xl sm:text-5xl md:text-6xl lg:text-[84px]/[90px] text-base-100 ml-4 sm:ml-5 md:ml-8 lg:ml-45.5'>Start your unforgettable <br /> journey with us.</h1>
-            <p className='font-rubik text-lg sm:text-xl md:text-2xl text-base-100 ml-4 sm:ml-5 md:ml-8 lg:ml-45.5 mt-4'>The best travel for your journey begins now.</p>
+            <h1 className='font-playfair-display text-4xl sm:text-5xl md:text-6xl lg:text-[84px]/[90px] text-base-100 ml-4 sm:ml-5 md:ml-8 lg:ml-45.5'>Your Dream <br /> Our Responsibility</h1>
+            <p className='font-rubik text-lg sm:text-xl md:text-2xl text-base-100 ml-4 sm:ml-5 md:ml-8 lg:ml-45.5 mt-4'>Shopnoghuri is not just a travel agency, its a path to fulfill your dream through traveling with us.</p>
 
             <form className='mt-20 md:mt-30 lg:mt-42.5 font-rubik bg-base-100 mx-auto md:mx-0 rounded-2xl md:rounded-s-none w-[95%] md:w-[80%] max-w-7xl pt-10 md:pt-0 md:flex justify-between' action="">
                 <div className='grid gap-10 grid-cols-1 md:grid-cols-2 lg:grid-cols-4 p-5 md:p-7 lg:py-12'>

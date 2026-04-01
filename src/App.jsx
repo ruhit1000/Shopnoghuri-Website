@@ -1,6 +1,6 @@
 import React, { Suspense } from 'react';
 import Navbar from './components/Navbar/Navbar';
-import headerBg from './assets/HeroBG.png';
+import headerBg from './assets/HeroBG.jpg';
 import HeroSection from './components/HeroSection/HeroSection';
 import PopularDestinations from './components/PopularDestinations/PopularDestinations';
 import axios from 'axios';

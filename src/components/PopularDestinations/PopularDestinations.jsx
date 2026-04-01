@@ -23,10 +23,10 @@ const PopularDestinations = ({ destinationsPromise }) => {
     return (
         <div className='py-20 px-4'>
             <div>
-                <h2 className='font-playfair-display text-4xl pb-3 mr-10'>Popular Destinations</h2>
+                <h2 className='font-playfair-display text-4xl pb-3 mr-10'>Our Assets</h2>
                 <hr className='border-b-2 border-[#FF7757] max-w-62.5' />
                 <div className='flex justify-between'>
-                    <p className='font-rubik text-lg text-[#767E86] mt-8 mb-15'>Most popular destinations around the world, from historical places to natural wonders.</p>
+                    <p className='font-rubik text-lg text-[#767E86] mt-8 mb-15'>Experience the beauty of Bangladesh from our exclusive resorts and scenic houseboats.</p>
                     <div className='hidden lg:flex items-end justify-end py-10'>
                         <ChangeButtons
                             onLeft={() => handleScroll('left')}
